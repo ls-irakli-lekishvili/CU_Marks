@@ -2,6 +2,5 @@
 * ### To run you should have new versions of chrome 78 - 79 - 80
     you can check it by opening new tab and writing chrome://version
 
-1. Download exe version to run right away
-2. If you want to run python version you also need to install selenium
+to run python file you need to install selenium
 with pip install selenium
