@@ -3,5 +3,5 @@
     you can check it by opening new tab and writing chrome://version
 
 1. Download exe version to run right away
-2. If you want to run python version you need also install selenium
+2. If you want to run python version you also need to install selenium
 with pip install selenium
